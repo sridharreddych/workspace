@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/asm-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/hibernate-3.1.1/hibernate-3.1/lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/commons-logging-1.1.2/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.aop-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.asm-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.aspects-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.beans-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.context.support-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.context-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.core-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/Jar/spring-framework-3.1.0.M2/dist/org.springframework.expression-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="F:/softwares/cglib-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
